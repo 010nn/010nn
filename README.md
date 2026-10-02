@@ -1,16 +1,29 @@
-## Hi there 👋
+# 🧑‍💻 `std::human` Developer Profile
 
-<!--
-**010nn/010nn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "I turn coffee into code and regressions into 'undocumented features'."
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Core Capabilities
+* **Stack Overflow Copy-Pasting:** 🌟 Senior Level
+* **Fixing bugs by restarting the server:** 100% Success Rate
+* **Estimating deadlines:** Pure Fiction 🦄
+
+### 🚀 Current Status
+```bash
+$ systemctl status developer-brain
+● developer-brain.service - Human Cognitive Functions
+   Loaded: loaded (/etc/human/brain.conf; enabled)
+   Active: active (running) since 3 cups of coffee ago
+   Main PID: 404 (Brain Not Found)
+   Status: "Trying to close Vim since 2021..."
+```
+
+### 📉 My Commit History
+* `fix:` fixed a typo
+* `fix:` fixed the fix
+* `refactor:` broke everything, going home
+* `feat:` it works on my machine 🤷‍♂️
+
+---
+*Generated offline on a physical piece of paper. Please do not drop water on it, I don't have a backup.*
